@@ -1,6 +1,6 @@
 # Originally forked from: git@github.com:gasi/docker-node-hello.git
 
-FROM node:0.10
+FROM node:latest
 
 MAINTAINER Anna Doe <anna@example.com>
 
